@@ -14,6 +14,7 @@ body {
 }
 
 .interior {
+    margin-top: 30px
     position: relative;
     height: 500px;
     width: 100%;
@@ -170,3 +171,4 @@ a {
     line-height: 100%;
     letter-spacing: -3%;
 }
+
